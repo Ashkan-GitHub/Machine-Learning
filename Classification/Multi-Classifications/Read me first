@@ -1,0 +1,6 @@
+In this notebook we use diferent techniques of multi-classification to classify a "iris" data set.
+The multi-classification algorithms we use are:
+SVM
+Softmax regression
+One vs. All (One-vs-Rest)
+One vs. One
